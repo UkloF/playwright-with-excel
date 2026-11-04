@@ -1,0 +1,2 @@
+# เปลี่ยน URL ที่นี่; หากเปลี่ยนเว็บ ต้องปรับ locator/ขั้นตอนใน Python ด้วย
+base_url: "https://www.saucedemo.com/"
